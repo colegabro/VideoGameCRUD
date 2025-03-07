@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\POO_BD\\CadastroVideoGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E67E44-2057-4899-8B21-9ED67A5D8EFC}|CadastroVideoGames.csproj|c:\\users\\nicol\\onedrive\\poo_bd\\cadastrovideogames\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66E67E44-2057-4899-8B21-9ED67A5D8EFC}|CadastroVideoGames.csproj|solutionrelative:cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E67E44-2057-4899-8B21-9ED67A5D8EFC}|CadastroVideoGames.csproj|c:\\users\\nicol\\onedrive\\poo_bd\\cadastrovideogames\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66E67E44-2057-4899-8B21-9ED67A5D8EFC}|CadastroVideoGames.csproj|solutionrelative:editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E67E44-2057-4899-8B21-9ED67A5D8EFC}|CadastroVideoGames.csproj|c:\\users\\nicol\\onedrive\\poo_bd\\cadastrovideogames\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66E67E44-2057-4899-8B21-9ED67A5D8EFC}|CadastroVideoGames.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\POO_BD\\CadastroVideoGames\\Editar.cs",
+              "RelativeDocumentMoniker": "Editar.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\POO_BD\\CadastroVideoGames\\Editar.cs [Design]",
+              "RelativeToolTip": "Editar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:32:37.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\POO_BD\\CadastroVideoGames\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\POO_BD\\CadastroVideoGames\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:32:34.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\POO_BD\\CadastroVideoGames\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Cadastrar.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\POO_BD\\CadastroVideoGames\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:31:34.717Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
